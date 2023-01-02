@@ -2,8 +2,6 @@ This folder has all of the code challenges leading up to the final e-commerce pr
 
 ## Quick Navigation
 
-- Lesson 1: No code challenges
-- Lesson 2: No code challenges
 - Lesson 3: [JavaScript Variables and Data Types Challenges](./lesson-3/README.md)
 - Lesson 4: [JavaScript Operators Challenges](./lesson-4/README.md)
 - Lesson 5: [JavaScript Functions, Loops, Conditionals Challenges](./lesson-5/README.md)
